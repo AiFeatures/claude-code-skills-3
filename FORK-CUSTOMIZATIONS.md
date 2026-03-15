@@ -1,6 +1,6 @@
 # Fork Customizations
 
-> This repository is a fork of [unknown]().
+> This repository is a fork of [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills).
 > Managed under the [iAiFy Enterprise](https://github.com/enterprises/iAiFy) governance model.
 
 ## Purpose
@@ -11,7 +11,7 @@ Professional Claude Code skills marketplace featuring production-ready skills fo
 
 | Property | Value |
 |----------|-------|
-| Upstream | [unknown]() |
+| Upstream | [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) |
 | Language | Python |
 | Fork org | AiFeatures |
 
